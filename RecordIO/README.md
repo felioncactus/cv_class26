@@ -1,6 +1,6 @@
 # Homework #1
 # RecordIO (Video Recorder)
-
+![RecordIO Screenshot](https://raw.githubusercontent.com/felioncactus/cv_class26/main/media/recordio_screenshot.png)
 ## Description
 This project is a simple Video Recorder made with Python and OpenCV.
 
