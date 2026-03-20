@@ -41,8 +41,9 @@ It can:
 - `K_COLORS` : number of colors used in quantization
 
 ## Good Result
-
+![Kartoonika Screenshot](https://github.com/felioncactus/cv_class26/blob/main/Kartoonika/cartoon_BADoutput.png)
 ## Bad Result
+![Kartoonika Screenshot](https://github.com/felioncactus/cv_class26/blob/main/Kartoonika/cartoon_GOODoutput.png)
 
 ## How to use it
 
