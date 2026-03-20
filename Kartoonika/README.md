@@ -1,5 +1,5 @@
 # Homework #2
-# Cartoon Rendering
+# Cartoon Rendering (Kartoonika)
 
 ## Description
 This project is a simple Cartoon Rendering program made with Python, OpenCV, and NumPy.
