@@ -1,5 +1,5 @@
 # Homework #2
-# Cartoon Rendering
+# Cartoon Rendering (Kartoonika)
 
 ## Description
 This project is a simple Cartoon Rendering program made with Python, OpenCV, and NumPy.
@@ -41,8 +41,9 @@ It can:
 - `K_COLORS` : number of colors used in quantization
 
 ## Good Result
-
+![Kartoonika Screenshot](https://github.com/felioncactus/cv_class26/blob/main/Kartoonika/cartoon_GOODoutput.png)
 ## Bad Result
+![Kartoonika Screenshot](https://github.com/felioncactus/cv_class26/blob/main/Kartoonika/cartoon_BADoutput.png)
 
 ## How to use it
 
