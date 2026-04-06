@@ -50,7 +50,7 @@ It can:
 - `UNDISTORTED_VIDEO_PATH` : path to save the corrected video
 
 ## Calibration Result
-
+![Kalibri Screenshot](https://github.com/felioncactus/cv_class26/blob/main/media/kalibri%20result.png?raw=true)
 ### Intrinsic Parameters
 - `fx` : `392.11556377559646`
 - `fy` : `393.91126500614456`
