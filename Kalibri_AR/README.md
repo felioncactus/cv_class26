@@ -4,6 +4,8 @@
 ## Description
 This project is a simple augmented reality camera pose estimation program made with Python, OpenCV, and NumPy.
 
+![Kalibri AR Screenshot](https://github.com/felioncactus/cv_class26/blob/main/media/ar_car_slow_turns.gif?raw=true)
+
 It can:
 - load a prerecorded checkerboard video from a manually set file path
 - use previously calibrated camera parameters
