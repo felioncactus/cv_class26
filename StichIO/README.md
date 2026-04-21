@@ -1,6 +1,8 @@
 # Homework #5
 # StichIO
 
+![Kalibri AR Screenshot](https://github.com/felioncactus/cv_class26/blob/main/StichIO/result_page.png?raw=true)
+
 ## Description
 This project is an automatic image stitching program made with Python, OpenCV, and NumPy.
 
