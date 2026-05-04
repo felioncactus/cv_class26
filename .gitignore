@@ -25,6 +25,14 @@ output/
 videos/
 screenshots/
 
+# Large datasets and archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+Pokemonika/PokemonData/
+Pokemonika/dataset.zip
+
 # Python cache
 __pycache__/
 *.pyc
