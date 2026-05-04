@@ -33,21 +33,7 @@ The best result was `resnet18_finetune`, which reached **94.82% test accuracy** 
 
 ## Learning Curves
 
-### ResNet-18 Fine-tuned
-
-![ResNet-18 fine-tuned learning curve](artifacts/resnet18_finetune/learning_curve.png)
-
-### EfficientNet-B0 Frozen
-
-![EfficientNet-B0 frozen learning curve](artifacts/efficientnet_b0_frozen/learning_curve.png)
-
-### ResNet-18 Frozen
-
-![ResNet-18 frozen learning curve](artifacts/resnet18_frozen/learning_curve.png)
-
-### MobileNetV3-Small Frozen
-
-![MobileNetV3 frozen learning curve](artifacts/mobilenet_v3_frozen/learning_curve.png)
+Refer to info.ipynb
 
 ## GUI Demo
 
